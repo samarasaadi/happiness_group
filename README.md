@@ -1,3 +1,3 @@
 ## Happiness Group
 
-# Jupyter Notebook Data Project
+#### Este projeto tem o objetivo de criar gráficos sobre o PIB e o nível de felicidade das regiões.
